@@ -140,7 +140,7 @@ h1 {
 }
 
 .roundCorner {
-    height: 200px;
+    height: 175px;
     border-style: solid;
     border-radius: 15px;
     border-color: #3882F6;
@@ -216,5 +216,15 @@ h2 {
     position: relative;
     left: 40%;
     top: 10%;
+}
+
+.copyrightSec {
+    padding: 30px;
+    background-color: #1f2937;
+    text-align: center;
+}
+
+.copyrightText {
+    
 }
 
